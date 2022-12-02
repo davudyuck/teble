@@ -1,0 +1,22 @@
+body {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  margin: 0 auto;
+  width: 800px;
+  outline: 2px solid orange;
+}
+td {
+  outline: 1px solid teal;
+}
+.name {
+  width: 100%;
+}
+.ml {
+  display: inline-table;
+  width: 69px;
+}
